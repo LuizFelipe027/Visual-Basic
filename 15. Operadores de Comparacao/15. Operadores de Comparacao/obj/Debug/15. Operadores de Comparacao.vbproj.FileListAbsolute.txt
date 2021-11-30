@@ -1,0 +1,12 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\bin\Debug\_15.Operadores_de_Comparacao.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\bin\Debug\_15.Operadores_de_Comparacao.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\bin\Debug\_15.Operadores_de_Comparacao.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\bin\Debug\_15.Operadores_de_Comparacao.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\15. Operadores de Comparacao.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\_15.Operadores_de_Comparacao.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\_15.Operadores_de_Comparacao.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\15. Operadores de Comparacao.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\15. Operadores de Comparacao.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\_15.Operadores_de_Comparacao.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\_15.Operadores_de_Comparacao.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\15. Operadores de Comparacao\15. Operadores de Comparacao\obj\Debug\_15.Operadores_de_Comparacao.pdb
