@@ -1,0 +1,12 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\bin\Debug\_14.Estrutura_de_Tomada_de_Decisão.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\bin\Debug\_14.Estrutura_de_Tomada_de_Decisão.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\bin\Debug\_14.Estrutura_de_Tomada_de_Decisão.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\bin\Debug\_14.Estrutura_de_Tomada_de_Decisão.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\14. Estrutura de Tomada de Decisão.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\_14.Estrutura_de_Tomada_de_Decisão.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\_14.Estrutura_de_Tomada_de_Decisão.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\14. Estrutura de Tomada de Decisão.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\14. Estrutura de Tomada de Decisão.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\_14.Estrutura_de_Tomada_de_Decisão.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\_14.Estrutura_de_Tomada_de_Decisão.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\14. Estrutura de Tomada de Decisão\14. Estrutura de Tomada de Decisão\obj\Debug\_14.Estrutura_de_Tomada_de_Decisão.pdb
