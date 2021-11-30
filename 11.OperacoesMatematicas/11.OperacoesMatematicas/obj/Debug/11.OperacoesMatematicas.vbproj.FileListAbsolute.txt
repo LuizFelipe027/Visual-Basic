@@ -1,0 +1,12 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\bin\Debug\11.OperacoesMatematicas.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\bin\Debug\11.OperacoesMatematicas.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\bin\Debug\11.OperacoesMatematicas.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\bin\Debug\11.OperacoesMatematicas.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\11.OperacoesMatematicas.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\_11.OperacoesMatematicas.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\_11.OperacoesMatematicas.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\11.OperacoesMatematicas.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\11.OperacoesMatematicas.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\11.OperacoesMatematicas.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\11.OperacoesMatematicas.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\11.OperacoesMatematicas\11.OperacoesMatematicas\obj\Debug\11.OperacoesMatematicas.pdb

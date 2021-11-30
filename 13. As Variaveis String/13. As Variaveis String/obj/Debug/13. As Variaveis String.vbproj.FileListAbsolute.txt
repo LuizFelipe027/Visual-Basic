@@ -1,0 +1,11 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\bin\Debug\_13.As_Variaveis_String.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\bin\Debug\_13.As_Variaveis_String.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\bin\Debug\_13.As_Variaveis_String.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\bin\Debug\_13.As_Variaveis_String.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\_13.As_Variaveis_String.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\_13.As_Variaveis_String.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\13. As Variaveis String.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\13. As Variaveis String.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\_13.As_Variaveis_String.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\_13.As_Variaveis_String.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\13. As Variaveis String\13. As Variaveis String\obj\Debug\_13.As_Variaveis_String.pdb

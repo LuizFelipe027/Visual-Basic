@@ -1,0 +1,11 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\bin\Debug\_12.Variaveis_Ponto_Flutuante.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\bin\Debug\_12.Variaveis_Ponto_Flutuante.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\bin\Debug\_12.Variaveis_Ponto_Flutuante.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\bin\Debug\_12.Variaveis_Ponto_Flutuante.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\_12.Variaveis_Ponto_Flutuante.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\_12.Variaveis_Ponto_Flutuante.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\12. Variaveis Ponto Flutuante.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\12. Variaveis Ponto Flutuante.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\_12.Variaveis_Ponto_Flutuante.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\_12.Variaveis_Ponto_Flutuante.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\12. Variaveis Ponto Flutuante\12. Variaveis Ponto Flutuante\obj\Debug\_12.Variaveis_Ponto_Flutuante.pdb
