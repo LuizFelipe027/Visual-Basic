@@ -1,0 +1,12 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\bin\Debug\Tipos de Variaveis.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\bin\Debug\Tipos de Variaveis.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\bin\Debug\Tipos de Variaveis.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\bin\Debug\Tipos de Variaveis.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos de Variaveis.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos_de_Variaveis.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos_de_Variaveis.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos de Variaveis.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos de Variaveis.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos de Variaveis.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos de Variaveis.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\Tipos de Variaveis\Tipos de Variaveis\obj\Debug\Tipos de Variaveis.pdb
