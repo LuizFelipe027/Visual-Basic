@@ -1,0 +1,11 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\bin\Debug\VariaveisOk.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\bin\Debug\VariaveisOk.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\bin\Debug\VariaveisOk.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\bin\Debug\VariaveisOk.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\VariaveisOk\VariaveisOk\obj\Debug\VariaveisOk.pdb
