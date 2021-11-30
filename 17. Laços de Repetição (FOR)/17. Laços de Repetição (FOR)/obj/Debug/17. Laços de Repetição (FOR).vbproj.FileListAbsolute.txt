@@ -1,0 +1,12 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\bin\Debug\_17.Laços_de_Repetição__FOR_.exe.config
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\bin\Debug\_17.Laços_de_Repetição__FOR_.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\bin\Debug\_17.Laços_de_Repetição__FOR_.pdb
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\bin\Debug\_17.Laços_de_Repetição__FOR_.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\17. Laços de Repetição (FOR).vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\_17.Laços_de_Repetição__FOR_.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\_17.Laços_de_Repetição__FOR_.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\17. Laços de Repetição (FOR).vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\17. Laços de Repetição (FOR).vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\_17.Laços_de_Repetição__FOR_.exe
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\_17.Laços_de_Repetição__FOR_.xml
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\17. Laços de Repetição (FOR)\17. Laços de Repetição (FOR)\obj\Debug\_17.Laços_de_Repetição__FOR_.pdb
