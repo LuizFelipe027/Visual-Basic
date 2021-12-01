@@ -1,0 +1,5 @@
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\18. lacos de Repeticao (WHILE)\18. lacos de Repeticao (WHILE)\obj\Debug\18. lacos de Repeticao (WHILE).vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\18. lacos de Repeticao (WHILE)\18. lacos de Repeticao (WHILE)\obj\Debug\_18.lacos_de_Repeticao__WHILE_.Form1.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\18. lacos de Repeticao (WHILE)\18. lacos de Repeticao (WHILE)\obj\Debug\_18.lacos_de_Repeticao__WHILE_.Resources.resources
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\18. lacos de Repeticao (WHILE)\18. lacos de Repeticao (WHILE)\obj\Debug\18. lacos de Repeticao (WHILE).vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\OneDrive\Documentos\Visual Basic\18. lacos de Repeticao (WHILE)\18. lacos de Repeticao (WHILE)\obj\Debug\18. lacos de Repeticao (WHILE).vbproj.CoreCompileInputs.cache
