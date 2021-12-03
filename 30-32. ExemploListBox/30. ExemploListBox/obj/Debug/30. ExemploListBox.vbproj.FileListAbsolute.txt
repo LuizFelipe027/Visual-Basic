@@ -1,0 +1,12 @@
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\bin\Debug\_30.ExemploListBox.exe.config
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\bin\Debug\_30.ExemploListBox.exe
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\bin\Debug\_30.ExemploListBox.pdb
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\bin\Debug\_30.ExemploListBox.xml
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\30. ExemploListBox.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\_30.ExemploListBox.Form1.resources
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\_30.ExemploListBox.Resources.resources
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\30. ExemploListBox.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\30. ExemploListBox.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\_30.ExemploListBox.exe
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\_30.ExemploListBox.xml
+C:\Users\luiz.paixao\source\repos\30. ExemploListBox\30. ExemploListBox\obj\Debug\_30.ExemploListBox.pdb
