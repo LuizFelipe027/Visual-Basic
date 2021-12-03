@@ -1,0 +1,114 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Desktop\VizualizadorImagens\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_ChamandoForms\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComLabels\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComLabels\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComLabels\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComLabels\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Atual\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_TrabalhandoComTxt_Continuação - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Os Botoes - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Os Botoes - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Os Botoes - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Os Botoes - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Utilizando o Check Box - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Utilizando o Check Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Utilizando o Check Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Utilizando o Check Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\VBnaPRATICA\VizualizadorImagens_Trabalhando com Panels e Group Box - Copia\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Adicionando Menus\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_A Janela OFD\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe.config
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.exe
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.xml
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.pdb
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\bin\Debug\VizualizadorImagens.exe
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\bin\Debug\VizualizadorImagens.pdb
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\bin\Debug\VizualizadorImagens.xml
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbprojResolveAssemblyReference.cache
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmPrincipal.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.frmSobre.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.Resources.resources
+E:\video aula\Projetos VS 2015\VBnaPRATICA\VizualizadorImagens_Modulos e Variaveis Globais\VizualizadorImagens\obj\Debug\VizualizadorImagens.vbproj.GenerateResource.Cache

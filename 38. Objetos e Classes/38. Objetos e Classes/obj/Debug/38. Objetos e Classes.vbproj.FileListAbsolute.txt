@@ -1,0 +1,11 @@
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\bin\Debug\_38.Objetos_e_Classes.exe.config
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\bin\Debug\_38.Objetos_e_Classes.exe
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\bin\Debug\_38.Objetos_e_Classes.pdb
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\bin\Debug\_38.Objetos_e_Classes.xml
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\38. Objetos e Classes.vbprojResolveAssemblyReference.cache
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\_38.Objetos_e_Classes.Resources.resources
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\38. Objetos e Classes.vbproj.GenerateResource.Cache
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\38. Objetos e Classes.vbproj.CoreCompileInputs.cache
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\_38.Objetos_e_Classes.exe
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\_38.Objetos_e_Classes.xml
+C:\Users\luiz.paixao\source\repos\38. Objetos e Classes\38. Objetos e Classes\obj\Debug\_38.Objetos_e_Classes.pdb
